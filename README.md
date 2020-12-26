@@ -8,5 +8,5 @@ Git Profile update
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=harsharora94.harsharora94"></a>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=harsharora94.harsh-arora"></a>
 </p>
